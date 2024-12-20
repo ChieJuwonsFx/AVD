@@ -242,10 +242,6 @@ plt.show()
 - **Kaggle Dataset** : https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 - **Kaggle Notebook** : https://www.kaggle.com/code/chiejuwonsfx/the-effect-of-vegetable-and-fruit-consumption
 
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Features
-
