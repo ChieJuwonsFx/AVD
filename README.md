@@ -238,6 +238,14 @@ plt.show()
 - **Pie Charts**: Visualize the proportion of diabetes cases based on vegetable and fruit consumption.
 - **Bar Charts**: Show frequency distribution of diabetes cases for consumers and non-consumers of vegetables and fruits.
 
+## Kaggle
+- **Kaggle Dataset** : https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+- **Kaggle Notebook** : https://www.kaggle.com/code/chiejuwonsfx/the-effect-of-vegetable-and-fruit-consumption
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Features
+
